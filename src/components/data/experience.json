@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "AI Trainer",
+    "organisation": "Scale AI",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Machine learning algorithms",
+      "Enhancing the capabilities of AI systems"
+    ],
+    "imageSrc": "company/google.png"
+  }
+]
