@@ -30,10 +30,10 @@ const Home = () => {
       <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
         <h1 ref={typedRef}></h1>
         <a
-          href="https://drive.google.com/file/d/1fReF94jlTRFSw9u82P-kohZHGAHulUBZ/view?usp=sharing"
+          href="https://drive.google.com/uc?export=download&id=1fReF94jlTRFSw9u82P-kohZHGAHulUBZ"
           className="btn btn-outline-warning my-3"
         >
-          Resume
+          Download the Resume
         </a>
       </div>
       <div className="right">
